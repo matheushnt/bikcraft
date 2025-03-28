@@ -53,6 +53,8 @@ img {
   display: inline-block;
   font-size: 18px;
   position: relative;
+  font-family: 'Poppins';
+  font-weight: 400;
 }
 
 .header-menu a::after {
@@ -125,6 +127,8 @@ img {
 }
 
 .introducao h1 {
+  font-family: 'Poppins';
+  font-weight: 600;
   margin-bottom: 32px;
   font-size: 64px;
   line-height: 1.125;
@@ -135,6 +139,8 @@ img {
 }
 
 .introducao p {
+  font-family: 'Roboto';
+  font-weight: 400;
   margin-bottom: 20px;
   font-size: 24px;
   line-height: 1.5;
@@ -142,6 +148,8 @@ img {
 }
 
 .introducao a {
+  font-family: 'Poppins';
+  font-weight: 600;
   display: inline-block;
   padding: 16px 32px;
   background-image: linear-gradient(#ffbf00, #f2a50c);
